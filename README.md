@@ -1,19 +1,19 @@
-# guia-oratoria-notebooklm
+# Guia-Oratoria-NotebookLM
 
 Dominando a Oratória: Um Guia Prático com NotebookLM.
 O projeto tem como objetivo usar o NotebookLM para ajudar as pessoas a melhorar a oratoria e a fala em publico, com tecnicas de fala, controle de nervosismo e de discursos para melhorar a comunicação interpessoal e profissional.
 
 Alguns links ultilizados para aprimorar o NotebookLM:
-https://youtu.be/l8cFiZbW4iw
-https://youtu.be/wLZyCpz3M7k
-https://youtu.be/jod5xZo6BVA
-https://youtu.be/73wo6vFD99s
-https://youtu.be/b8OpW8CmbIo
+* https://youtu.be/l8cFiZbW4iw
+* https://youtu.be/wLZyCpz3M7k
+* https://youtu.be/jod5xZo6BVA
+* https://youtu.be/73wo6vFD99s
+* https://youtu.be/b8OpW8CmbIo
 
 # Exemplo de prompt:
-Entrada: Como perder o medo de falar em publico? mas agora me fale em topicos e resuma.
+* **Entrada**: Como perder o medo de falar em publico? mas agora me fale em topicos e resuma.
 
-Saída: Mentalidade e Preparação Psicológica
+* **Saída**: Mentalidade e Preparação Psicológica
 Foque na mensagem, e não no seu medo ou ansiedade, para desviar a atenção do seu desconforto interno para o valor que você está entregando.
 Aceite as imperfeições, entendendo que pequenos erros não o tornam inferior e que a busca pelo perfeccionismo excessivo alimenta o pânico.
 Adote poses de poder, como a posição de "super-herói" (mãos no quadril e queixo erguido), por alguns minutos antes da fala para reduzir o cortisol (hormônio do estresse) e aumentar a autoconfiança.
