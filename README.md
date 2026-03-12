@@ -10,10 +10,10 @@ Alguns links ultilizados para aprimorar o NotebookLM:
 * https://youtu.be/73wo6vFD99s
 * https://youtu.be/b8OpW8CmbIo
 
-# Exemplo de prompt:
-* **Entrada**: Como perder o medo de falar em publico? mas agora me fale em topicos e resuma.
+## Exemplo de prompt:
+**Entrada**: Como perder o medo de falar em publico? mas agora me fale em topicos e resuma.
 
-* **Saída**: Mentalidade e Preparação Psicológica
+**Saída**: Mentalidade e Preparação Psicológica
 Foque na mensagem, e não no seu medo ou ansiedade, para desviar a atenção do seu desconforto interno para o valor que você está entregando.
 Aceite as imperfeições, entendendo que pequenos erros não o tornam inferior e que a busca pelo perfeccionismo excessivo alimenta o pânico.
 Adote poses de poder, como a posição de "super-herói" (mãos no quadril e queixo erguido), por alguns minutos antes da fala para reduzir o cortisol (hormônio do estresse) e aumentar a autoconfiança.
@@ -63,7 +63,7 @@ Este guia foi consolidado com o auxílio da IA NotebookLM, sintetizando os princ
 
 * **Rapport:** Técnica de criar uma ligação de empatia e sintonia com a audiência.
 * **Gatilhos Mentais:** Estímulos psicológicos (como escassez, autoridade ou prova social) que facilitam a persuasão.
-* **Vícios de Linguagem:** Expressões repetitivas (ex: "né", "tipo", "tá") que ruídos na comunicação.
+* **Vícios de Linguagem:** Expressões repetitivas que ruídos na comunicação(ex: "né", "tipo", "tá").
 * **Modulação Vocal:** A capacidade de ajustar o volume e o tom da voz para dar ênfase a partes importantes do discurso.
 * **Comunicação Não-Verbal:** Tudo o que é dito através de gestos, expressões faciais e postura, muitas vezes mais impactante que as palavras.
 
